@@ -1,8 +1,6 @@
 <h1 align="center">👋 Welcome to Bloggers.web.id GitHub!</h1>
 
-<p align="center">
-  <img src="https://bloggers.web.id/logo.png" alt="Logo" width="120" />
-</p>
+
 
 ---
 
@@ -19,14 +17,6 @@ Kami adalah komunitas dan platform panduan untuk blogger pemula hingga mahir, me
 - Panduan Monetisasi (Adsense, Afiliasi)
 
 ---
-
-## 📌 Featured Projects
-
-| Nama Repo | Deskripsi |
-|-----------|-----------|
-| `blog-template` | Template Blogger SEO Friendly mirip WordPress |
-| `html-cms` | Generator artikel HTML statis manual |
-| `longtail-keyword-db` | Kumpulan longtail keyword untuk niche blogging |
 
 ---
 
